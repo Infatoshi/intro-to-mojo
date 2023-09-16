@@ -8,6 +8,8 @@ Then: `ls $(python3 -c 'import sysconfig; print(sysconfig.get_config_var("LIBDIR
 
 Combine the two to create the full path to the `.so` file (it might be something like `/usr/lib/x86_64-linux-gnu/libpython3.10.so`) and assign it to the `MOJO_PYTHON_LIBRARY` variable.
 
-```echo 'export MOJO_PYTHON_LIBRARY="<full_path_to_libpython.so>"' >> ~/.bashrc
+```
+echo 'export MOJO_PYTHON_LIBRARY="<full_path_to_libpython.so>"' >> ~/.bashrc
 
-source ~/.bashrc```
+source ~/.bashrc
+```
