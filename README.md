@@ -13,3 +13,12 @@ echo 'export MOJO_PYTHON_LIBRARY="<full_path_to_libpython.so>"' >> ~/.bashrc
 
 source ~/.bashrc
 ```
+---
+I will update this repo as newer features become relevant.
+---
+
+## Links:
+- YouTube: https://www.youtube.com/@elliotarledge
+- Discord: https://discord.gg/pV7ByF9VNm
+- LinkedIn: https://www.linkedin.com/in/elliot-arledge-a392b7243/
+- How to Start Jupyter Notebooks in 5 Minutes: https://www.youtube.com/watch?v=eLmweqU5VBA&t=10s&ab_channel=Elliotcodes
