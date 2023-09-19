@@ -22,3 +22,7 @@ I will update this repo as newer features become relevant.
 - Discord: https://discord.gg/pV7ByF9VNm
 - LinkedIn: https://www.linkedin.com/in/elliot-arledge-a392b7243/
 - How to Start Jupyter Notebooks in 5 Minutes: https://www.youtube.com/watch?v=eLmweqU5VBA&t=10s&ab_channel=Elliotcodes
+
+---
+## Try the LLAMA2 Mojo version for yourself:
+- https://github.com/tairov/llama2.mojo
