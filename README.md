@@ -18,6 +18,7 @@ I will update this repo as newer features become relevant.
 ---
 
 ## Links:
+- Twitter / X: https://twitter.com/elliotarledge
 - YouTube: https://www.youtube.com/@elliotarledge
 - Discord: https://discord.gg/pV7ByF9VNm
 - LinkedIn: https://www.linkedin.com/in/elliot-arledge-a392b7243/
